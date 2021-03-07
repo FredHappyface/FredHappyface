@@ -20,7 +20,7 @@
 Working on a series of CTFs through Uni. Dissertation on the topic of Elliptic Curve Cryptography. General research 
 
 ## Programming and Applications development 
-Develping applications and library code in Python (Sometimes Java, Web, etc..)
+Developing applications and library code in Python (Sometimes Java, Web, etc..)
 
 ## Gaming 
 Enjoy playing a range of games, such as The Witcher III, Legend of Zelda 
