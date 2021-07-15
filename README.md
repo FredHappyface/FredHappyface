@@ -3,28 +3,26 @@
 <!--
 **FredHappyface/FredHappyface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 👯 Looking to collaborate on ...
 - 🤔 Looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Working on Uni Coursework 
-- 🌱 Currently learning Kotlin
-- 👯 Looking to collaborate on GimpFormats/ LicenseMatrix
+- 🔭 Working as a developer for a security company
+- 🌱 Currently learning Conan (c++)/ vm deployment
 - 💬 Ask me about most programming related things and some security stuff  
 - 📫 How to reach me: Via GitHub Issues 
 
 
-## Hobbies and Interests 
-### Cybersecurity 
-Working on a series of CTFs through Uni. Dissertation on the topic of Elliptic Curve Cryptography. General research 
+## Hobbies 
+**Software Development** I enjoy working on a range of Open-Source Software including applications and library code. 
 
-## Programming and Applications development 
-Developing applications and library code in Python (Sometimes Java, Web, etc..)
+**Sewing** Recently started sewing and have started with simple patterns such as t-shirts and undershirts and am working my way towards a shirt.
 
-## Gaming 
-Enjoy playing a range of games, such as The Witcher III, Legend of Zelda 
+**Computer Security** Developing skills through a range of platforms such as RootMe, Immersive Labs and HackTheBox.
 
+**Gaming** Enjoy playing a range of games, one of my favourite game series is The Legend of Zelda. Some other games I have played include: The Witcher 3 and Little Nightmares
 
 ## General Stats
 
