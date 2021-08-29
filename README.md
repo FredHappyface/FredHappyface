@@ -26,9 +26,9 @@
 
 ## General Stats
 
-![FredHappyface's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredHappyface&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR)
+![FredHappyface's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=FredHappyface&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR)
 
-![FredHappyface Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredHappyface&langs_count=8&theme=radical&layout=compact&card_width=445&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR)
+![FredHappyface Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FredHappyface&langs_count=8&theme=radical&layout=compact&card_width=445&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR)
 
 ## Top Repos 
 
