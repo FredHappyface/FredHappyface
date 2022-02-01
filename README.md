@@ -30,7 +30,8 @@
 
 ![FredHappyface Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredHappyface&langs_count=8&theme=radical&layout=compact&card_width=445&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&hide=css)
 
-## Top Repos 
+## FredHappyface
+
 
 <a href="https://github.com/FredHappyface/VSCode.OSKeybindings">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FredHappyface&theme=radical&repo=VSCode.OSKeybindings" />
@@ -40,31 +41,59 @@
 </a>
 <br>
 
-<a href="https://github.com/FHPythonUtils/LayeredImage">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPythonUtils&theme=radical&repo=LayeredImage" />
+<a href="https://github.com/FredHappyface/Android.EweSticker">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FredHappyface&theme=radical&repo=Android.EweSticker" />
 </a>
-<a href="https://github.com/FHPythonUtils/FHMake">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPythonUtils&theme=radical&repo=FHMake" />
+<a href="https://github.com/FredHappyface/Android.FHCode">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FredHappyface&theme=radical&repo=Android.FHCode" />
 </a>
 <br>
 
-<a href="https://github.com/FHPythonUtils/SimpleSecurity">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPythonUtils&theme=radical&repo=SimpleSecurity" />
-</a>
+## FHPythonUtils
+
 <a href="https://github.com/FHPythonUtils/Cli2Gui">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPythonUtils&theme=radical&repo=Cli2Gui" />
+</a>
+<a href="https://github.com/FHPythonUtils/PyLottie">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPythonUtils&theme=radical&repo=PyLottie" />
 </a>
 <br>
 
 <a href="https://github.com/FHPythonUtils/BlendModes">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPythonUtils&theme=radical&repo=BlendModes" />
 </a>
-<a href="https://github.com/FHPythonUtils/AnsiToImg">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPythonUtils&theme=radical&repo=AnsiToImg" />
+<a href="https://github.com/FHPythonUtils/SVGTrace">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPythonUtils&theme=radical&repo=SVGTrace" />
 </a>
 <br>
 
+<a href="https://github.com/FHPythonUtils/SimpleSecurity">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPythonUtils&theme=radical&repo=SimpleSecurity" />
+</a>
+<a href="https://github.com/FHPythonUtils/Waifu2x">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPythonUtils&theme=radical&repo=Waifu2x" />
+</a>
+<br>
 
+## Base24
+
+<a href="https://github.com/Base24/Base24">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Base24&theme=radical&repo=Base24" />
+</a>
+<a href="https://github.com/Base24/Base16-kdeplasma">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Base24&theme=radical&repo=Base16-kdeplasma" />
+</a>
+<br>
+
+## FHPWA
+
+<a href="https://github.com/FHPWA/Brainf">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPWA&theme=radical&repo=Brainf" />
+</a>
+<a href="https://github.com/FHPWA/PasswordGen">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=FHPWA&theme=radical&repo=PasswordGen" />
+</a>
+<br>
 
 
 Credit to https://github.com/anuraghazra/github-readme-stats for the pretty badges 
