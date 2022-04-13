@@ -10,7 +10,7 @@
 -->
 
 - 🔭 Working as a developer for a security company
-- 🌱 Currently learning Rust, Python asyncio
+- 🌱 Currently learning IaC technologies (ansible, terraform) 
 - 💬 Ask me about most programming related things and some security stuff  
 - 📫 How to reach me: Via GitHub Issues 
 
