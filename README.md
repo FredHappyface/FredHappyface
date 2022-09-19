@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **FredHappyface/FredHappyface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,20 +9,28 @@
 - ⚡ Fun fact: ...
 -->
 
+
 - 🔭 Working as a developer for a security company
-- 🌱 Currently learning IaC technologies (ansible, terraform) 
-- 💬 Ask me about most programming related things and some security stuff  
-- 📫 How to reach me: Via GitHub Issues 
+- 🎓 Obtained a First-Class Hons in Computer Science with an Industrial Year
+- 🌱 Currently learning IaC technologies (ansible, terraform)
+- 💬 Ask me about most programming related things and some security stuff
+- 📫 How to reach me: Via GitHub Issues
 
+## Hobbies
 
-## Hobbies 
-**Software Development** I enjoy working on a range of Open-Source Software including applications and library code. 
+**Software Development** Enjoy working on a range of
+Open-Source Software including applications and library code.
 
-**Sewing** Recently started sewing and have started with simple patterns such as t-shirts and undershirts and am working my way towards a shirt.
+**Sewing** Recently started sewing and have started with simple patterns
+such as t-shirts and undershirts and am working my way towards a shirt.
 
-**Computer Security** Developing skills through a range of platforms such as RootMe, Immersive Labs and HackTheBox.
+**Computer Security** Developing skills through a range of platforms
+such as RootMe, Immersive Labs and HackTheBox.
 
-**Gaming** Enjoy playing a range of games, one of my favourite game series is The Legend of Zelda. Some other games I have played include: The Witcher 3 and Little Nightmares
+**Gaming** Enjoy playing a range of games, one of my favourite game
+series is The Legend of Zelda. Some other games I have played include:
+The Witcher 3 and Little Nightmares.
+
 
 ## General Stats
 
