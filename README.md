@@ -57,10 +57,10 @@
 
 ## Activity Graph
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=fredhappyface&hide_border=true&bg_color=151515&color=fff&line=fd428e&point=fd428e)](https://fredhappyface.dev)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fredhappyface&bg_color=151515&color=fff&line=fd428e&point=fd428e&area=true&hide_border=true)
 
 ## Credits
 
 - https://github.com/anuraghazra/github-readme-stats
-- https://github.com/Ashutosh00710/github-readme-activity-graph
+- https://github.com/ashutosh00710/github-readme-activity-graph
 - https://shields.io/
