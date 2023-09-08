@@ -57,7 +57,7 @@
 
 ## Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fredhappyface&bg_color=141321&color=a9fef7&line=fd428e&point=fd428e&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fredhappyface&bg_color=141321&color=a9fef7&line=fd428e&point=fd428e&area=true&hide_border=true)
 
 ## Credits
 
